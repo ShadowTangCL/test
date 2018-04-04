@@ -1,0 +1,78 @@
+.left{
+	width: 50%;
+	height: 500px;
+	background-color: #FFFFFF;
+	float: left;
+}
+.triangle{
+	width: 0px;
+	height: 0px;
+	border-width: 250px 150px 250px 150px;
+	border-style:solid;
+	border-color: #FFFFFF #41E0D8 #41E0D8 #FFFFFF;
+	float: right;
+}
+.tupian{
+	position: absolute;left: 30%;top: 208px;
+}
+.right{
+	width: 50%;
+	height: 500px;
+	background-color: #41E0D8;
+	float: right;
+}
+.wenzi{
+	font-size: 43px;
+	font-family: arial;
+	position: absolute;top: 150px;
+}
+a.one:link,a.one:visited
+{
+font-size:15px;
+font-family: arial;
+color:#FFFFFF;
+background-color:#41E0D8;
+text-align:center;
+padding:20px 30px 20px 30px;
+text-decoration:none;
+}
+
+a.one:hover,a.one:active
+{
+background-color:#000000;
+}
+
+
+a.two:link,a.two:visited
+{
+margin-left: 10px;
+font-size:15px;
+font-family: arial;
+color:#FFFFFF;
+background-color:#000000;
+text-align:center;
+padding:20px 30px 20px 30px;
+text-decoration:none;
+}
+
+a.two:hover,a.two:active
+{
+background-color:#41E0D8;
+}
+
+
+a.three:link,a.three:visited
+{
+font-family: arial;
+color:#41E0D8;
+background-color:#000000;
+text-align:center;
+padding:3px;
+text-decoration:none;
+}
+
+a.three:hover,a.three:active
+{
+background-color:#41E0D8;
+color: #000000;
+}

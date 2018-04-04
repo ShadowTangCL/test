@@ -1,0 +1,26 @@
+.left2{
+	width: 50%;
+	height: 500px;
+	background-color: #262A34;
+	position: absolute;left: 30%;top: 600px;
+}
+.right2{
+	width: 50%;
+	height: 500px;
+	background-color: #262A34;
+	float: left;
+}
+a.lianjie:link,a.lianjie:visited
+{
+font-family: arial;
+color:#FFFFFF;
+background-color:#41E0D8;
+text-align:center;
+padding:15px 30px 15px 30px;
+text-decoration:none;
+}
+
+a.lianjie:hover,a.lianjie:active
+{
+background-color:#000000;
+}

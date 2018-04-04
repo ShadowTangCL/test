@@ -1,0 +1,21 @@
+.shuru{
+	background-color: #51555D;
+	padding: 20px;
+	border: 0;
+	width: 700px;
+}
+a.send:link,a.send:visited
+{
+	margin-left: 30px;
+font-family: arial;
+color:#41E0D8;
+background-color:#FFFFFF;
+text-align:center;
+padding:20px 30px 20px 30px;
+text-decoration:none;
+}
+
+a.send:hover,a.send:active
+{
+background-color:#000000;
+}
